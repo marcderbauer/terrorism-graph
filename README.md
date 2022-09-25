@@ -15,6 +15,6 @@ It would be nice to join this with a database of terrorist incidents.
 The [Global Terrorism Database](https://www.start.umd.edu/gtd/) and Our World In Data's [Terrorism]("https://ourworldindata.org/terrorism") page would be a good start for that. However, the Global Terrorism database has approx 200k entries, which may cause some issues regarding visualisation. I will need to find a way to deal with that once the rest works.
 
 ## Contribution
-I am happy about any feedback, collaboration or just thoughts in general. You can send me a message here:  
+I am happy about any feedback, collaboration or just thoughts in general.
 
- [![Hey]( https://img.shields.io/badge/-Hello!)](mailto:hello@marcanthonybauer.com?subject=[GitHub%20--%20terrorism-graph])
+ [![Hey](https://img.shields.io/badge/-Message%20me!-green)](mailto:hello@marcanthonybauer.com?subject=[GitHub%20--%20terrorism-graph])
