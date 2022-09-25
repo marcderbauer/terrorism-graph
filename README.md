@@ -1,4 +1,4 @@
-# ABOUT
+# Interpol Terrorism Knowledge Graph
 
 ## Intent
 This repo serves to create a knowledge graph of Individuals wanted by Interpol and Terrorist organisations and their associated members.
@@ -9,6 +9,15 @@ The main sources are:
 
 ## Technology
 - Streamlit, Neo4j, Python
+
+## Status
+This repo is currently in it's earliest stages. I intend to focus on some other projects first, but wanted to capture the idea well, so I could continue on it at a later point. `main.py` includes a proof of concept MVP. In order to run it you need to complete two steps:
+
+### Install the required dependencies
+    pip install -r requirements.txt  
+
+### Run the MVP
+    streamlit run mvp.py 
 
 ## Long-Term
 It would be nice to join this with a database of terrorist incidents.   
